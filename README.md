@@ -4,6 +4,6 @@ Part of the Responsive Web Design Certification.
 
 # Screenshots
 <figure>
-  <img src="https://raw.githubusercontent.com/chanwaihan/Cat-Photo-App/main/cat-photo-app-preview.jpg" alt="Cat Photo App Preview">
+  <img src="https://raw.githubusercontent.com/chanwaihan/Cat-Photo-App/main/cat-photo-app-preview.jpg" alt="Cat Photo App Preview" title="Cat Photo App">
   <figcaption>Figure 1: Cat Photo App Preview</figcaption>
 </figure>
